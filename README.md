@@ -1,6 +1,6 @@
 # My Work Day Scheduler
 
-This is for employees who are looking to plan out there entire day for their 9-5pm workday so they can manage their day effectively.
+This is for employees who are looking to plan out their entire 9-5pm workday so they can manage it effectively.
 
 ## Screenshot 
 
