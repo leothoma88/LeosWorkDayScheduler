@@ -14,4 +14,4 @@ Heres what the application looks like:
 
 * (https://github.com/leothoma88/LeosWorkDayScheduler)
 
-* ()
+* (https://leothoma88.github.io/LeosWorkDayScheduler/)
